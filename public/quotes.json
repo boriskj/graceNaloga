@@ -1,0 +1,502 @@
+[
+  {
+    "_id": "RXBrRJcq1Cih",
+    "content": "One must be fond of people and trust them if one is not to make a mess of life.",
+    "author": "E. M. Forster",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "e-m-forster",
+    "length": 79,
+    "dateAdded": "2019-02-17",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "ARKzsqVpFY",
+    "content": "Two persons cannot long be friends if they cannot forgive each other's little failings.",
+    "author": "Jean de La Bruyère",
+    "tags": ["Friendship"],
+    "authorSlug": "jean-de-la-bruyere",
+    "length": 87,
+    "dateAdded": "2021-05-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "3Jk60HlbZFu9",
+    "content": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+    "author": "Harriet Tubman",
+    "tags": ["Famous Quotes", "Success", "Inspirational"],
+    "authorSlug": "harriet-tubman",
+    "length": 165,
+    "dateAdded": "2021-05-05",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "HewRwT9KnT7S",
+    "content": "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
+    "author": "Laozi",
+    "tags": ["Wisdom"],
+    "authorSlug": "laozi",
+    "length": 100,
+    "dateAdded": "2019-09-23",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "yE-5JJkxPMwS",
+    "content": "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
+    "author": "Thomas à Kempis",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "thomas-a-kempis",
+    "length": 114,
+    "dateAdded": "2020-05-21",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "J1amO36TwbX8",
+    "content": "You can't blame gravity for falling in love.",
+    "author": "Albert Einstein",
+    "tags": ["Famous Quotes", "Humorous"],
+    "authorSlug": "albert-einstein",
+    "length": 44,
+    "dateAdded": "2021-05-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "P4WtPxjdH735",
+    "content": "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
+    "author": "Epictetus",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "epictetus",
+    "length": 120,
+    "dateAdded": "2019-10-18",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "WGKvYTlZfcdS",
+    "content": "Get busy living or get busy dying.",
+    "author": "Stephen King",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "stephen-king",
+    "length": 34,
+    "dateAdded": "2021-01-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "nFekPJy-f7",
+    "content": "Many sophisticated, intelligent people lack wisdom and common sense.",
+    "author": "Joyce Meyer",
+    "tags": ["Wisdom"],
+    "authorSlug": "joyce-meyer",
+    "length": 68,
+    "dateAdded": "2019-01-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "v88YjiHVIp",
+    "author": "Mia Hamm",
+    "content": "I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.",
+    "tags": ["Sports", "Competition"],
+    "authorSlug": "mia-hamm",
+    "length": 105,
+    "dateAdded": "2022-07-06",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "Nf7VnkC8VtH_",
+    "content": "No man is free who is not master of himself.",
+    "author": "Epictetus",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "epictetus",
+    "length": 44,
+    "dateAdded": "2020-01-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "0lGYdcfvWc",
+    "content": "To lead people walk behind them.",
+    "author": "Laozi",
+    "tags": ["Wisdom"],
+    "authorSlug": "laozi",
+    "length": 32,
+    "dateAdded": "2020-05-21",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "3nM-lSBTxLVL",
+    "content": "Living at risk is jumping off the cliff and building your wings on the way down.",
+    "author": "Ray Bradbury",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "ray-bradbury",
+    "length": 80,
+    "dateAdded": "2020-09-29",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "QJ-eQYHrQKXt",
+    "content": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+    "author": "William Arthur Ward",
+    "tags": ["Famous Quotes", "Wisdom"],
+    "authorSlug": "william-arthur-ward",
+    "length": 105,
+    "dateAdded": "2019-07-03",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "Lpf8FgZIUNqR",
+    "content": "Know, first, who you are, and then adorn yourself accordingly.",
+    "author": "Epictetus",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "epictetus",
+    "length": 62,
+    "dateAdded": "2020-11-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "CDRr80kEq75j",
+    "content": "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+    "author": "Chuck Swindoll",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "chuck-swindoll",
+    "length": 101,
+    "dateAdded": "2020-01-26",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "QKZqW0wzV-w",
+    "content": "Nobody will believe in you unless you believe in yourself.",
+    "author": "Liberace",
+    "tags": ["Famous Quotes", "Inspirational", "Motivational"],
+    "authorSlug": "liberace",
+    "length": 58,
+    "dateAdded": "2019-01-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "6isvcSZcOcZz",
+    "content": "Kindness is the language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "mark-twain",
+    "length": 71,
+    "dateAdded": "2020-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "oKpokhAy8o17",
+    "content": "It is the quality of our work which will please God, not the quantity.",
+    "author": "Mahatma Gandhi",
+    "tags": ["Wisdom"],
+    "authorSlug": "mahatma-gandhi",
+    "length": 70,
+    "dateAdded": "2020-05-21",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "yIC09d9set",
+    "content": "Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.",
+    "author": "Elbert Hubbard",
+    "tags": ["Wisdom"],
+    "authorSlug": "elbert-hubbard",
+    "length": 105,
+    "dateAdded": "2020-11-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "OVNhFsYzj_lB",
+    "content": "Chaos and Order are not enemies, only opposites.",
+    "author": "Richard Garriott",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "richard-garriott",
+    "length": 48,
+    "dateAdded": "2019-12-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "D6Yr5I9ikXXc",
+    "content": "If you do what you've always done, you'll get what you've always gotten.",
+    "author": "Tony Robbins",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "tony-robbins",
+    "length": 72,
+    "dateAdded": "2021-03-28",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "OHNMF1vCnPFE",
+    "content": "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
+    "author": "Rabbi Hillel",
+    "tags": ["Famous Quotes", "Wisdom"],
+    "authorSlug": "rabbi-hillel",
+    "length": 100,
+    "dateAdded": "2019-01-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "uGjjOxego4o",
+    "author": "Charles F. Kettering",
+    "content": "If you want to kill any idea in the world, get a committee working on it.",
+    "tags": ["Business"],
+    "authorSlug": "charles-f-kettering",
+    "length": 73,
+    "dateAdded": "2022-07-06",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "c041Ur1c8R",
+    "author": "Abraham Lincoln",
+    "content": "I will prepare and someday my chance will come.",
+    "tags": ["Famous Quotes", "Inspirational"],
+    "authorSlug": "abraham-lincoln",
+    "length": 47,
+    "dateAdded": "2019-10-03",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "yCY2q20UK4Uf",
+    "content": "Let us sacrifice our today so that our children can have a better tomorrow.",
+    "author": "A. P. J. Abdul Kalam",
+    "tags": ["Famous Quotes", "Inspirational"],
+    "authorSlug": "a-p-j-abdul-kalam",
+    "length": 75,
+    "dateAdded": "2020-11-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "IQyVmjKCY1",
+    "content": "All human wisdom is summed up in two words; wait and hope.",
+    "author": "Alexandre Dumas",
+    "tags": ["Wisdom"],
+    "authorSlug": "alexandre-dumas",
+    "length": 58,
+    "dateAdded": "2020-10-29",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "4eJZzWraMFLH",
+    "content": "Things do not change; we change.",
+    "author": "Henry David Thoreau",
+    "tags": ["Change", "Wisdom"],
+    "authorSlug": "henry-david-thoreau",
+    "length": 32,
+    "dateAdded": "2019-03-17",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "JIk3cbQ8s",
+    "author": "Michael Jordan",
+    "content": "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+    "tags": ["Sports", "Competition", "Famous Quotes"],
+    "authorSlug": "michael-jordan",
+    "length": 224,
+    "dateAdded": "2022-07-06",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "OyLHLZT290ii",
+    "content": "A day of worry is more exhausting than a day of work.",
+    "author": "John Lubbock",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "john-lubbock",
+    "length": 53,
+    "dateAdded": "2019-10-18",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "jYRDxPs5oC",
+    "content": "The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.",
+    "author": "Cicero",
+    "tags": ["Friendship"],
+    "authorSlug": "cicero",
+    "length": 184,
+    "dateAdded": "2020-12-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "l7UNABW6dA2",
+    "content": "Silence is the sleep that nourishes wisdom.",
+    "author": "Francis Bacon",
+    "tags": ["Wisdom"],
+    "authorSlug": "francis-bacon",
+    "length": 43,
+    "dateAdded": "2021-05-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "DBkTDkczWkg",
+    "content": "You can't shake hands with a clenched fist.",
+    "author": "Indira Gandhi",
+    "tags": ["Wisdom"],
+    "authorSlug": "indira-gandhi",
+    "length": 43,
+    "dateAdded": "2019-02-11",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "UMuvzCL1lau",
+    "content": "Fears are nothing more than a state of mind.",
+    "author": "Napoleon Hill",
+    "tags": ["Wisdom"],
+    "authorSlug": "napoleon-hill",
+    "length": 44,
+    "dateAdded": "2021-05-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "RfsD8oOMcu7",
+    "content": "Courage is going from failure to failure without losing enthusiasm.",
+    "author": "Winston Churchill",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "winston-churchill",
+    "length": 67,
+    "dateAdded": "2019-12-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "Q0WgKeCECMfA",
+    "content": "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
+    "author": "Anaïs Nin",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "anais-nin",
+    "length": 141,
+    "dateAdded": "2020-05-21",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "vvI7HzgTSh_",
+    "author": "The Buddha",
+    "content": "'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.",
+    "tags": ["Wisdom", "Virtue", "Honor"],
+    "authorSlug": "the-buddha",
+    "length": 118,
+    "dateAdded": "2023-03-30",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "irmQ_ljAMU",
+    "content": "A friend in power is a friend lost.",
+    "author": "Henry Adams",
+    "tags": ["Friendship"],
+    "authorSlug": "henry-adams",
+    "length": 35,
+    "dateAdded": "2020-02-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "6UG4hWhrspT",
+    "content": "A goal is a dream with a deadline.",
+    "author": "Napoleon Hill",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "napoleon-hill",
+    "length": 34,
+    "dateAdded": "2019-09-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "_UrzHiuV23Pn",
+    "content": "Every man takes the limits of his own field of vision for the limits of the world.",
+    "author": "Arthur Schopenhauer",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "arthur-schopenhauer",
+    "length": 82,
+    "dateAdded": "2020-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "BqFJ5FP6LdA",
+    "content": "Write your plans in pencil and give God the eraser.",
+    "author": "Paulo Coelho",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "paulo-coelho",
+    "length": 51,
+    "dateAdded": "2019-08-03",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "fCdzog34dlCw",
+    "content": "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
+    "author": "Margaret Mead",
+    "tags": ["Success", "Change"],
+    "authorSlug": "margaret-mead",
+    "length": 128,
+    "dateAdded": "2021-05-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "EbwcJxDo-wVb",
+    "content": "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
+    "author": "Everett Dirksen",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "everett-dirksen",
+    "length": 96,
+    "dateAdded": "2020-04-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "CtXK_S3aJG",
+    "content": "Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'",
+    "author": "Bill Bradley",
+    "tags": ["Wisdom"],
+    "authorSlug": "bill-bradley",
+    "length": 137,
+    "dateAdded": "2020-10-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "Qz9ozuQJXq",
+    "content": "I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.",
+    "author": "Chuck Swindoll",
+    "tags": ["Friendship"],
+    "authorSlug": "chuck-swindoll",
+    "length": 172,
+    "dateAdded": "2021-01-11",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "vbTwRyX9uu",
+    "content": "Genius unrefined resembles a flash of lightning, but wisdom is like the sun.",
+    "author": "Franz Grillparzer",
+    "tags": ["Wisdom"],
+    "authorSlug": "franz-grillparzer",
+    "length": 76,
+    "dateAdded": "2019-02-11",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "POF-Umusm4LH",
+    "content": "The world is a book, and those who do not travel read only a page.",
+    "author": "Augustine of Hippo",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "augustine-of-hippo",
+    "length": 66,
+    "dateAdded": "2020-06-24",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "HuU2RKn2Tn-g",
+    "content": "We do not quit playing because we grow old, we grow old because we quit playing.",
+    "author": "Oliver Wendell Holmes Jr.",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "oliver-wendell-holmes-jr",
+    "length": 80,
+    "dateAdded": "2021-03-26",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "8ry084PzfT",
+    "content": "A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.",
+    "author": "William C. Menninger",
+    "tags": ["Friendship"],
+    "authorSlug": "william-c-menninger",
+    "length": 153,
+    "dateAdded": "2021-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "R46KnxnbwR",
+    "content": "In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.",
+    "author": "François de La Rochefoucauld",
+    "tags": ["Friendship"],
+    "authorSlug": "francois-de-la-rochefoucauld",
+    "length": 101,
+    "dateAdded": "2020-12-06",
+    "dateModified": "2023-04-14"
+  }
+]
